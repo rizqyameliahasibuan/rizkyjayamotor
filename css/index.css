@@ -1,0 +1,17 @@
+/* .navbar{
+    padding-right: 200px;
+    padding-left: 80px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.id-gmb{
+    size: 100px;
+} */
+
+section, footer{
+    padding: 20px 0px;
+}
+.tebal{
+    border-block: 50px;
+}
